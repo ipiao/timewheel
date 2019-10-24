@@ -1,1 +1,3 @@
-#### 1.添加了Reset方法
+#### timewheel
+
+- 添加了ResetTimer方法
